@@ -1,0 +1,8 @@
+# We can use comments yay!
+title = "Example GMX input"
+gmxlib = "/net/storage/greedisgod/force_fields_gmx"
+gmxpath = "/home/greedisgod/bin/gromacs/bin/GMXRC"
+
+[general]
+# gmxmodulefile = "
+forcefield = "amber99sb-star-ildn.ff"
